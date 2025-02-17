@@ -1,2 +1,2 @@
 # dreieckchance
-Simulation eines Dreieckproblems bei dem 3 zufällige Punkte auf einem Kreis gezeichnet werden, welche wenn verbunden ein Dreieck bilden, außerdem wird noch überprüft ob dieses Dreieck den Mittelpunkt des Kreises enthält, unterhalb gibt es noch eine Chancen Berechnung (als Vergleich, die Chance ist 25%)
+Simulation eines Dreieckproblems, bei dem drei zufällige Punkte auf einem Kreis gezeichnet werden. Diese Punkte werden miteinander verbunden und bilden ein Dreieck. Außerdem wird überprüft, ob dieses Dreieck den Mittelpunkt des Kreises enthält. Unterhalb wird die Wahrscheinlichkeit (Berechnet) angezeigt, dass das Dreieck den Mittelpunkt enthält (zum Vergleich: die Wahrscheinlichkeit beträgt 25%).
